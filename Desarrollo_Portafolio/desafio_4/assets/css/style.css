@@ -1,0 +1,41 @@
+header{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+form{
+    background-color: #28a745;
+    padding: 50px;
+}
+
+label{
+    display: flex;
+    justify-content: center;
+    color:#fff
+}
+
+.test{
+    color:#212529;
+    color:#707070;
+    color:#F8F9FA;
+    color:#fff;
+    color:#28a745;
+}
+
+.precio_antes{
+    color:#707070;
+}
+
+.precio_oferta{
+    color:#28a745;
+}
+
+.img{
+    display:flex;
+    align-items:center;
+    width: 5%;
+    height: auto;
+    max-height: 200px;
+}

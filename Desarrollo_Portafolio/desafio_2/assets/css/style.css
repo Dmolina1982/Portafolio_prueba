@@ -1,0 +1,59 @@
+body {
+    font-family: 'Lumanosimo', cursive;
+    margin: 20px;
+    background-color: white;
+}
+
+.imagen1 {
+    background-color: white;
+    width: 30%;
+}
+
+.principal {
+    background-color: rgb(0, 140, 255);
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    width: 100%;
+}
+
+.texto {
+    background-color: burlywood;
+    width: 70%;
+    color: rgb(4, 161, 4);
+    font-size: 20px;
+}
+
+main {
+    background-color: whitesmoke;
+    width: 90%;
+    justify-content: center;
+    padding: 8%;
+}
+
+.producto {
+    width: 50%;
+    background-color: rgb(4, 161, 4);
+}
+
+.precio {
+    width: 50%;
+    background-color: rgb(4, 161, 4);
+    font-size: 20px;
+}
+
+.venta {
+    display: flex;
+}
+
+.despedida {
+    background-color: chocolate;
+    height: 50px;
+}
+
+.bay {
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
